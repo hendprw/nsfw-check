@@ -1,6 +1,6 @@
 {
     "name": "nsfw-check",
-    "version": "1.0.0",
+    "version": "2.0.1",
     "description": "Paket untuk memeriksa apakah sebuah domain terkait dengan konten pornografi menggunakan OpenDNS.",
     "main": "lib/index.js",
     "scripts": {
