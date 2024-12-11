@@ -1,0 +1,22 @@
+{
+    "name": "nsfw-check",
+    "version": "1.0.0",
+    "description": "Paket untuk memeriksa apakah sebuah domain terkait dengan konten pornografi menggunakan OpenDNS.",
+    "main": "lib/index.js",
+    "scripts": {
+      "test": "jest",
+      "build": "npm run test",
+      "publish": "npm publish"
+    },
+    "keywords": ["porn", "dns", "openDNS", "checker", "domain"],
+    "author": "hendprw",
+    "license": "MIT",
+    "dependencies": {
+      "nslookup": "^1.0.0",
+      "debug": "^4.3.4"
+    },
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
+  
